@@ -1,0 +1,175 @@
+.container {
+    margin-top : 20px;
+    overflow: hidden;
+}
+
+.detail{
+    margin-top : 15px;
+    padding: 5px 0px 0px 5px;
+
+}
+
+.logo {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        padding-bottom: 25px;
+}
+
+.mg{
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+}
+
+h3{
+    font-family: Nunito;
+    font-weight: 700;
+}
+
+p, a {
+    font-family: Nunito;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.category {
+    
+    float: right;
+}
+
+.box{
+    width: 100%;
+    overflow: hidden;
+}
+
+.box .love{
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    padding-top: 30px;
+    position: absolute;
+    background: lightpink;
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 1px 1px 3px;
+}
+
+.box .school{
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    padding-top: 30px;
+    position: absolute;
+    background: rgb(155, 140, 212);
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 1px 1px 3px;
+}
+
+.box .work{
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    padding-top: 30px;
+    position: absolute;
+    background: rgb(255, 255, 135);
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 1px 1px 3px;
+}
+
+.box .horror{
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    padding-top: 30px;
+    position: absolute;
+    background: gray;
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 1px 1px 3px;
+}
+
+.box .child{
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    padding-top: 30px;
+    position: absolute;
+    background: lightcoral;
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 1px 1px 3px;
+}
+
+a:hover .btn{
+    border: 1px solid black;
+    color: coral;
+    background: cyan;
+}
+
+.input-group{
+    border-radius: 30px;
+}
+
+.input-group-prepend a{
+    color: black;
+}
+
+.float-right{
+    margin-top: -35px;
+}
+
+.float-right a{
+    color: #4a4a4a;
+    text-decoration: none;
+}
+
+.float-right a:hover{
+    color: rgb(255, 89, 38);
+}
+
+.input-group-text{
+    background-color: white;
+}
+
+.form-control {
+    width: 20px;
+    border-radius: 5px;
+}
+
+.row {
+    margin-bottom: 30px;
+    height: 70px;
+}
+
+.row .col {
+    margin-top: 5px;
+}
+
+.row a{
+    color: #4a4a4a;
+    text-decoration: none;
+}
+
+.row a:hover {
+    color: rgb(29, 4, 255);
+}
+
+.row .col i{
+    background-color: rgb(247, 151, 6);
+    color: rgb(2, 2, 54);
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    align-content: center;
+}
+
+.time{
+    font-size: 14px;
+    color: rgba(119, 136, 153, 0.473);
+    size: 20px;
+    padding-top: -55;
+}
+
+.input-group-flex {
+    border-radius: 25%;
+}
