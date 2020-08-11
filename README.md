@@ -1,4 +1,4 @@
-# Tampilan Website Menggunakan HTML CSS dan Javascript
+# Tampilan Website Menggunakan HTML5, CSS, dan Javascript
 
 - Nama : Aida Mahmudah
 - Prodi/Jurusan : Teknik Informatika/Teknik Informatika dan Komputer
